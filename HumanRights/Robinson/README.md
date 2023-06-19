@@ -1,0 +1,4 @@
+### The Killing Season 
+
+explores one of the largest and swiftest, yet least examined, instances of mass killing and incarceration in the twentieth century—the shocking antileftist purge that gripped Indonesia in 1965–66, leaving some five hundred thousand people dead and more than a million others in detention. An expert in modern Indonesian history, genocide, and human rights, Geoffrey Robinson sets out to account for this violence and to end the troubling silence surrounding it. In doing so, he sheds new light on broad, enduring historical questions. How do we account for instances of systematic mass killing and detention? Why are some of these crimes remembered and punished, while others are forgotten? Based on a rich body of primary and secondary sources, The Killing Season is the definitive account of a pivotal period in Indonesian history.
+
