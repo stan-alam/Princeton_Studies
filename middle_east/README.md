@@ -1,5 +1,5 @@
 
-## Princton Middle East studies series
+## Princeton Middle East studies series
 
 
 **The Shamama Case**: Contesting Citizenship across the Modern Mediterranean
