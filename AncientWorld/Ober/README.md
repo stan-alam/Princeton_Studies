@@ -107,6 +107,58 @@ Note: How scaled¿
 
 . It also becomes more interesting to those who prefer democracy, freedom, and dignity—even in the incomplete form in which they were manifest in ancient Greece—to the kinds of domination typical of most premodern states.
 
+Ancient Greek history points to a possible alternative to the dominant narrative of political and economic development, based primarily on the history of early modern Europe, as “first (and necessarily) the big, centralized, and autocratic state, and only then (sometimes) democracy and wealth.
+
+. Yet it is now very clear that specialization and exchange flourished at different levels in Hellas and, moreover, that the core principles of relative advantage and rational cooperation were understood by the ancient Greeks.24
+
+specialized in a wide range of endeavors. Within a given specialization, individuals competed with one another (“potter vies against potter,” as the poet Hesiod remarked in his Works and Days, line 25), once again sharpening the recognition of the value of relative advantage and leading to the deepening and multiplication of subspecializations.
+Note: 0
+
+Unlike Mesopotamia, Egypt, or China, for example, Hellas had no great river systems that could be cooperatively managed by a centralized bureaucracy so as to create the conditions favorable to maximizing the production of a few staple crops.
+
+variegated
+
+Henry Ford, who famously employed Smith’s core insight to create a sophisticated industrial production system for automobiles, is said to have bemoaned the fact that when he hired a pair of hands, they came with a head attached. The conjunction of specialization of production and centralization of the management of knowledge for rational planning was one of the hallmarks of the industrial era of the nineteenth and twentieth centuries.
+
+The challenge of the knowledge-based enterprise is not detaching hands from heads à la Ford but rather providing conditions in which the different forms of useful knowledge embedded in many minds will be voluntarily disclosed and effectively organized so as to address the problems that must be solved in order for the organization to further its purposes. This system typically requires creating conditions of mutual trust and a sense of shared purpose.
+
+—that is, the situation in which person A knows something, and B knows that A knows it, and A knows that B knows that A knows it … and so on. Under conditions of common knowledge, people are better able to align their efforts. Under conditions of effective aggregation of diverse types of knowledge, the group may effectively be wiser than any of its individual members, and important innovations may be the product of group effort rather than individual genius.
+
+when the results are codified, the effect is to increase over time the total stock of useful knowledge. By “the right conditions,” I mean conditions of shared interests and purposes, rational trust, and fair competition (level playing field, equitable rewards), such that people voluntarily choose to share what they know with others in their organization in a timely and appropriate manner, thereby allowing for their knowledge to be applied to complex problems—that is, to problems that demand for their solution many different kinds of knowledge.
+Note: K
+
+Moreover, under the right conditions, individuals voluntarily choose to deepen their own special knowledge and sharpen their
+
+skills: In other words, they invest in the development of their own relative advantages and turn those relative advantages to cooperative, prosocial ends.
+
+This process of building human capital and social capital is manifest in the operations of modern science and engineering and is therefore at least indirectly responsible for, inter alia, the dynamic growth of modern economies. As the managers of modern organizations have found, however, getting the conditions right is not easy. In the Greek world, the right conditions were achieved and sustained by innovative political institutions and a robust civic culture.
+
+They did so by protecting individuals against the theft by the powerful of the fruits of risk-taking and self-investment.
+
+  Today we typically think of such protections as “rights.” The Greeks did not have a fully modern conception of universal human rights. But they did develop a strong tradition of civic rights—immunities against arbitrary action by powerful individuals or government agents. These immunities guaranteed for each citizen the security of his or her body against assault, the security of his or her dignity against humiliation, and the security of his or her property against confiscation.
+
+residents of a polis were not citizens and so were not full participants in the regime of immunity and security. And yet, in some of the most highly developed poleis, these immunities were extended to at least some noncitizens.
+Note: Civil rights
+
+. Much of the work of governance in a democratic polis was done by amateurs—by citizen-farmers and citizen-shoemakers, and citizen-soldiers who chose to dedicate themselves, part-time, to the tasks of rule-making, judgment, and administration. The costs associated with amateurs spending part of their productive energies on the business of governance (loss of productivity in the nongovernment sector, steep learning curves) were more than made up for by the benefits that arose from the assurance that the incentives of decision-making bodies
+Note: 4
+
+The rulers are specialists in ruling, and no one who is not a specialist in ruling has a legitimate role to play in governing the state. Rulers are supported by a military class of violence specialists, who monopolize the use of force and support the rulers in exchange for a share of the rents
+
+This situation of specialist-rulers was certainly conceivable to the Greeks. Indeed, “each does his own specialized job and strictly avoids interfering in the specializations of others” is the primary principle of justice in the most famous work of Greek political philosophy, Plato’s Republic. In Plato’s ideal state, that principle leads inevitably to the absolutist rule of philosopher-kings, who are described as perfectly and uniquely competent expert rulers. The philosopher-kings are supported by the auxiliary guardians, specialists in violence who enjoy a monopoly on the legitimate use of force, both internally against rule-breaking locals and for purposes of external warfare.
+
+individual or small group could legitimately monopolize authority to govern the state. As we will see, when the right institutional and cultural conditions had been achieved, the many actually did prove to be adequately wise.
+
+The fall of most of the great Greek city-states from their dominant position in Mediterranean affairs was precipitated, at least in part, by the successful adaptation of Greek innovations by some of the Greeks’ neighbors.
+
+
+By the middle decades of the fourth century BCE, the kingdom of Macedon had proved the most successful of these “opportunist” states.
+
+  In the Macedon of King Philip II (who reigned 359–336 BCE) and his son Alexander III (“the Great”: 336–323 BCE), Greek expertise in finance and warfare were conjoined with ethnonationalism, rich natural resource endowments, and a level of military and organizational skill that may legitimately be described as genius. The result was the emergence of state military capacity that was unequaled in the prior history of the Mediterranean or west Asian worlds:
+
+Macedon conquered not only the poleis of mainland Greece, but also the vast Persian Empire. Rome later proved spectacularly adept at borrowing expertise and technology from its various neighbors, including the Greeks, and putting those elements together into a highly effective military and administrative system. That system eventually allowed the Romans to govern an empire of some 75 million people that
+
+
 
 --------------------------------------
 Lord Byron described Greece as great, fallen, and immortal, a characterization more apt than he knew. Through most of its long history, Greece was poor. But in the classical era, Greece was densely populated and highly urbanized. Many surprisingly healthy Greeks lived in remarkably big houses and worked for high wages at specialized occupations. Middle-class spending drove sustained economic growth and classical wealth produced a stunning cultural efflorescence lasting hundreds of years.
