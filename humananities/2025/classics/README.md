@@ -1,3 +1,4 @@
+```ascii
 Princeton Classics paperbacks include some of the most important and influential books ever published by Princeton University Press—works by leading scholars and writers that have made a lasting impact on intellectual life around the world. With handsome new cover designs and in many cases new features, these elegant and affordable editions bring classic works to a new generation of readers.
 How Propaganda Works
 Jason Stanley
@@ -189,3 +190,4 @@ Erich Auerbach and Edward W. Said
 
 The Passions and the Interests
 Albert O. Hirschman
+```
